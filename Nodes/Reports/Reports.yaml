@@ -253,7 +253,7 @@ Children:
       - Name: Text
         Type: BaseDataVariableType
         DataType: LocalizedText
-        Value: {"LocaleId":"en-US","Text":"Aa0  英文`-=[]\\;',./-+.~!@#$%^&()_+{}|:\"<>?中文·-=【】、；’，。、/*-+.~！￥……（）——{}|：”《》？_sécurité_àèéù_éé_Diseñar_邏輯_äöüß_ąęł"}
+        Value: {"LocaleId":"en-US","Text":"aaaaaaa"}
   - Name: Sections
     Type: ReportColumnLayout
     Children:
@@ -356,7 +356,7 @@ Children:
         - Name: Text
           Type: BaseDataVariableType
           DataType: LocalizedText
-          Value: {"LocaleId":"en-US","Text":"Aa0  英文`-=[]\\;',./-+.~!@#$%^&()_+{}|:\"<>?中文·-=【】、；’，。、/*-+.~！￥……（）——{}|：”《》？_sécurité_àèéù_éé_Diseñar_邏輯_äöüß_ąęł"}
+          Value: {"LocaleId":"en-US","Text":"bbbbbbbbb"}
   - Name: Footer
     Type: Panel
     Children:
@@ -456,7 +456,7 @@ Children:
       - Name: Text
         Type: BaseDataVariableType
         DataType: LocalizedText
-        Value: {"LocaleId":"en-US","Text":"Aa0  英文`-=[]\\;',./-+.~!@#$%^&()_+{}|:\"<>?中文·-=【】、；’，。、/*-+.~！￥……（）——{}|：”《》？_sécurité_àèéù_éé_Diseñar_邏輯_äöüß_ąęł"}
+        Value: {"LocaleId":"en-US","Text":"cccc"}
   - Class: Reference
     Target: ns=8;i=16
     Direction: Forward

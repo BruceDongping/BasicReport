@@ -128,7 +128,7 @@ Children:
               Type: BaseDataVariableType
               DataType: ResourceUri
               Description: {"NamespaceIndex":8,"TextId":"GeneratePdfOutputPathDescription"}
-              Value: "file:///C:/Users/dluan/Documents/Rockwell Automation/FactoryTalk Optix/Projects/BasicReport/ProjectFiles/Report.pdf"
+              Value: "ns=7;%PROJECTDIR%/Report.pdf"
             - Name: LocaleId
               Type: BaseDataVariableType
               DataType: String
